@@ -20,6 +20,6 @@ GameFolder/
 
 ---
 
-Note
+## Note
 
-This mod only implements the basic unlocking functionality. Some in-game UI elements may become laggy
+Some game UI may become laggy
