@@ -17,9 +17,3 @@ GameFolder/
 ```
 
 4. Launch the game: Start Shape of Dreams normally. All content should now be unlocked.
-
----
-
-## Note
-
-Some game UI may become laggy
