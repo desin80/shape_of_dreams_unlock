@@ -1,6 +1,7 @@
 # SODUnlock
-A BepInEx mod for Shape of Dreams that unlocks all content in the game
-Installation
+A BepInEx mod for Shape of Dreams that unlocks all content in the game  
+
+##Installation
 
 1. Install BepInEx: Follow the official BepInEx instructions for your platform.
 
